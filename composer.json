@@ -1,5 +1,5 @@
 {
-    "name": "durbanski/mailhog-wordpress",
+    "name": "DawidUrbanski/mailhog-wordpress",
     "description": "Mailhog adapter plugin for WordPress",
     "type": "wordpress-muplugin",
     "license": "GPLv2",
