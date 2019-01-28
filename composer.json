@@ -2,7 +2,7 @@
     "name": "dawidurbanski/mailhog-wordpress",
     "description": "Mailhog adapter plugin for WordPress",
     "type": "wordpress-muplugin",
-    "license": "GPLv2",
+    "license": "GNU General Public License v2 or later (GPLv2+)",
     "authors": [
         {
             "name": "Dawid Urbański",
