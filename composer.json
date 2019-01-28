@@ -1,0 +1,13 @@
+{
+    "name": "durbanski/mailhog-wordpress",
+    "description": "Mailhog adapter plugin for WordPress",
+    "type": "wordpress-muplugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Dawid Urbański",
+            "email": "hi@dawidurbanski.com"
+        }
+    ],
+    "require": {}
+}
