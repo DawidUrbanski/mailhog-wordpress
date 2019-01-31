@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Mailhog
- * Version: 0.1.0
+ * Version: 1.0
  * License: GPL2
  */
 
